@@ -38,3 +38,5 @@ bundle.Dockerfile
 catalog
 catalog.Dockerfile
 cloudnative-pg-catalog.yaml
+config.bat
+node_modules
